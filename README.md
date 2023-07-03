@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 <br>
 
 ### 📞 Contact
-gmail: jelly9999@g.skku.edu
-Linkedin: https://www.linkedin.com/in/hyunseo-k/
+- gmail: jelly9999@g.skku.edu
+- Linkedin: https://www.linkedin.com/in/hyunseo-k/
