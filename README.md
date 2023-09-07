@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ### Hyunseo Kang (@hyunseo-k)
 - CS student at Sungkyunkwan University, Suwon Korea.
 - Adept to motivating crew members with leadership
-- Global talent (Exchange student, TOEFL 103/120, OPiC AL)
+- Global talent (Exchange student, TOEFL 103/120, OPIC AL)
+- Dev. blog: https://velog.io/@jelly9999
 
 <br>
 
