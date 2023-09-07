@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 👾Blog
-- https://velog.io/@jelly9999
+https://velog.io/@jelly9999
 
 <br>
 
