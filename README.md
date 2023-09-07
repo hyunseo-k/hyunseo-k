@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 - CS student at Sungkyunkwan University, Suwon Korea.
 - Adept to motivating crew members with leadership
 - Global talent (Exchange student, TOEFL 103/120, OPIC AL)
-- Dev. blog: https://velog.io/@jelly9999
+
+<br>
+
+### 👾Blog
+- https://velog.io/@jelly9999
 
 <br>
 
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🌱 I’m currently learning
+### 🌱 I’ve Used
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
