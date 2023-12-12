@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hyunseo Kang (@hyunseo-k)
-- CS student at Sungkyunkwan University, Korea.
-- Adept to motivating crew members with leadership
-- Global talent (Exchange student, TOEFL 103/120, OPIC AL)
+
 
 <br>
 
