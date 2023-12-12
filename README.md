@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ### Hyunseo Kang (@hyunseo-k)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyunseo%Kang&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyunseo%20Kang&fontSize=90)
 
 ### 👾Blog
 https://velog.io/@jelly9999
