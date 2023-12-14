@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 
-### My stats
+### My Stats
 <div align=center> 
   
 ![Hyunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseo-k&show_icons=true&count_private=true) 
