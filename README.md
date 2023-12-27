@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <li><a href="https://www.skku.edu/"> Sungkyunkwan University (SKKU)</a> 
     <ul>
       <li> B.S. in Computer Engineering (2020.03~) </li>
-      <li> <a href="https://cs.skku.edu/en">College of Computing and Informatics</a> </li>
+      <li> <a href="https://cse.skku.edu/cse/index.do">College of Computing and Informatics</a> </li>
     </ul>
   </li>
 </ul>
