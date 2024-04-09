@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Profile
 <ul>
   <li><a href="https://www.skku.edu/"> Sungkyunkwan University (SKKU)</a> 
-    <ul>
+    <ul> 
       <li> B.S. in Computer Engineering (2020.03~) </li>
       <li> <a href="https://cse.skku.edu/cse/index.do">College of Computing and Informatics</a> </li>
     </ul>
