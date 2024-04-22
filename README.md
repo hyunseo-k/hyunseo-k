@@ -32,10 +32,9 @@ Here are some ideas to get you started:
   <li><a href="https://www.skku.edu/"> Sungkyunkwan University (SKKU)</a> 
     <ul> 
       <li> B.S. in Computer Engineering (2020.03~) </li>
-      <li> <a href="https://cse.skku.edu/cse/index.do">College of Computing and Informatics</a> </li>
     </ul>
   </li>
-  <li><a href="https://boostcamp.connect.or.kr/program_ai.html"> Naver Connect Boostcamp AI Tech (SKKU)</a> 
+  <li><a href="https://boostcamp.connect.or.kr/program_ai.html"> Naver Connect Boostcamp AI Tech </a> 
     <ul> 
       <li> Computer Vision Track (2023.11~ 2024.04) </li>
     </ul>
